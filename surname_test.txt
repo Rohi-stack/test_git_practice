@@ -3,3 +3,5 @@ dynamic array
 
 2nd day static array
 2nd day ADTs
+
+bad syntax
