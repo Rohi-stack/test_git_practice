@@ -9,4 +9,3 @@ bad syntax
 =======
 
 3rd day Linked List
->>>>>>> 188ab1b27aba7fdb6a9c01c00d0778c472bd81ce:test.txt
