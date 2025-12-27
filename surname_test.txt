@@ -4,4 +4,9 @@ dynamic array
 2nd day static array
 2nd day ADTs
 
+<<<<<<< HEAD:surname_test.txt
 bad syntax
+=======
+
+3rd day Linked List
+>>>>>>> 188ab1b27aba7fdb6a9c01c00d0778c472bd81ce:test.txt
