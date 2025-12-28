@@ -9,3 +9,5 @@ bad syntax
 =======
 
 3rd day Linked List
+
+and the 2nd day way Sorting 
